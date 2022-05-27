@@ -33,4 +33,4 @@
 
 
 <h2><strong> Discord -->  </strong></h2>
-<a href="https://discord.com/users/584879487850643456"><img align="left" src="https://lanyard.cnrad.dev/api/830527702854402068"></a>
+<a href="https://discord.com/users/584879487850643456"><img align="left" src="https://lanyard.cnrad.dev/api/584879487850643456"></a>
